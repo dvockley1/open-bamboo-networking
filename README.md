@@ -1,4 +1,4 @@
-# Open Bamboo Networking
+# Open Bamboo Networking 
 
 Open-source drop-in replacement for Bambu Studio's proprietary `bambu_networking`
 plugin.
